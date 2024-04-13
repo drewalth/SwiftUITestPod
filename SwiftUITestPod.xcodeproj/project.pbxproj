@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		A1D2C4F32BCA12C700317D75 /* libSwiftUITestPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSwiftUITestPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1D2C4F62BCA12C700317D75 /* SwiftUITestPod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITestPod.swift; sourceTree = "<group>"; };
+		A1D2C4FD2BCA130A00317D75 /* SwiftUITestPod.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SwiftUITestPod.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		A1D2C4EA2BCA12C700317D75 = {
 			isa = PBXGroup;
 			children = (
+				A1D2C4FD2BCA130A00317D75 /* SwiftUITestPod.podspec */,
 				A1D2C4F52BCA12C700317D75 /* SwiftUITestPod */,
 				A1D2C4F42BCA12C700317D75 /* Products */,
 			);
